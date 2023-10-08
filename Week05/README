@@ -1,3 +1,4 @@
 1. Use Jupiter notebook or VSCode to open it.
-2. Runall all the code.
-3. Upload DailyReturn.csv, portfolio.csv, spy_gfc.csv and DailyPrices.csv as requested
+2. execute pip install Risk_lib_jt393
+3. Runall all the code.
+4. Upload portfolio.csv, problem1.csv and DailyPrices.csv as requested

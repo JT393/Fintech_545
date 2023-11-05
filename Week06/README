@@ -1,0 +1,4 @@
+1. Use Jupiter notebook or VSCode to open it.
+2. execute pip install Risk_lib_jt393
+3. Runall all the code.
+4. Upload AAPL_Options.csv, problem3.csv and DailyPrices.csv as requested
